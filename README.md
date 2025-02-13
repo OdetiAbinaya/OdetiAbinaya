@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abinaya Odeti</h1>
 <h3 align="center">A passionate System software Developer</h3>
 
-- Masters in Information Technology from **University of North Carolina at Charlotte**
+- Masters in Computer Science from **University of North Carolina at Charlotte**
 
-- Bachelors in Information Technology  from **Bhoj Reddy engineering college for women's**
+- Bachelors in Computer Science from **Bhoj Reddy engineering college for women's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OdetiAbinaya?tab=repositories](https://github.com/OdetiAbinaya?tab=repositories)
 
