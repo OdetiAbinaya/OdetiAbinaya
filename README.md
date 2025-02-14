@@ -4,7 +4,7 @@
 
 - Masters in Computer Science from **University of North Carolina at Charlotte**
 
-- Bachelors in Computer Science from **Bhoj Reddy engineering college for women's**
+- Bachelors in Computer Science from **Jawaharlal Nehru Technological University Hyderabad**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OdetiAbinaya?tab=repositories](https://github.com/OdetiAbinaya?tab=repositories)
 
